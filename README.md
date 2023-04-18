@@ -1,3 +1,3 @@
-# Skill Showcase
+# Machine Learning tutorials
 
 
